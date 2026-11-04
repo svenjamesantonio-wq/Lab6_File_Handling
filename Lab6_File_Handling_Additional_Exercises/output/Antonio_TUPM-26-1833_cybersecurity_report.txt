@@ -1,0 +1,14 @@
+--- Cybersecurity Incident Report (2018) ---
+Student: Antonio (TUPM-26-1833)
+Total Records: 3000
+Target Year Incidents: 310
+Total Financial Loss: $14720.48 Million
+Average Financial Loss: $47.49 Million
+
+Attack Type Breakdown:
+ - Man-in-the-Middle: 36
+ - SQL Injection: 57
+ - Phishing: 52
+ - DDoS: 60
+ - Malware: 56
+ - Ransomware: 49

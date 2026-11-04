@@ -1,0 +1,12 @@
+{
+    "student_name": "Antonio",
+    "student_id": "TUPM-26-1833",
+    "target_operating_system": "iOS",
+    "target_behavior_class": 4,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 146,
+    "records_in_target_behavior_class": 29,
+    "average_battery_drain": 2123.21,
+    "average_data_usage": 1221.45,
+    "exported_row_count": 29
+}

@@ -1,0 +1,15 @@
+{
+    "student_name": "Antonio",
+    "student_id": "TUPM-26-1833",
+    "records_processed": 1023,
+    "target_status_class": "5xx",
+    "records_in_target_class": 0,
+    "status_counts": {
+        "200": 845,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "top_5_urls": []
+}
