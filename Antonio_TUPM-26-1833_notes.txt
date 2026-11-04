@@ -1,0 +1,5 @@
+Student: Antonio
+Student ID: TUPM-26-1833
+Seed digit: 3
+ID sum: 23
+Verification value: 164
